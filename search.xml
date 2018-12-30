@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018%2F12%2F30%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title><![CDATA[你好！《光芒》]]></title>
+    <url>%2F2018%2F12%2F30%2Ftop%2F</url>
+    <content type="text"><![CDATA[各位读者，同学，老师们！《光芒》今天和你们正式见面了！这是柳州市第十五中学2018级17班班刊，更是一份纯粹的刊物。现在，让我们看看《光芒》是什么？ 模块摘要第一版-班级新闻 记录一个月以来班级发生的重大新闻，可以包括同学学习成绩，考试排名的进步；同学参加比赛获奖，为班级争光的荣誉时刻；也不排除同学犯错误的自我反思和通报 第二版-时政新闻 摘录出一个月以来全国各地乃至全世界的重大新闻，祖国的进步，世界的发展，国家之间的冲突矛盾或者合作共赢，都记录其中，让读者们可以关心天下事 第三版-杂文逸事 精选美文好段分享给读者，还会分享各种音乐，电影，散文，让读者们能在这里找到自己感兴趣的内容，还设有《每月一笑》让同学们在繁重的学习生活中得到放松 第四版-文学天地 选出一个月以来同学们写出的优秀作文，或者是同学们的阅读感悟和分享。还有优秀同学们分享出来的学习经验，让我们共同进步 查阅方式 收阅每月初下发到2018级17班的纸质版 登录www.guangmang-1817.tk在线阅读（每星期额外定期更新**“杂文逸事”**） 下载《光芒》客户端阅读 编辑组 总主编/排版：王亦昕 副主编/审核：何芷瞳 审核组： 倪欣 傅鑫宇]]></content>
+      <categories>
+        <category>公告</category>
+      </categories>
+      <tags>
+        <tag>光芒</tag>
+        <tag>公告</tag>
+      </tags>
   </entry>
 </search>
