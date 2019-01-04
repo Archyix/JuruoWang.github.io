@@ -851,7 +851,7 @@
   <script src="//cdn.jsdelivr.net/gh/xcss/valine@v1.1.7-rc3/dist/Valine.min.js"></script>
   <script type="text/javascript">
     var GUEST = ['nick'];
-    var guest = 'nick';
+    var guest = 'nick,mail';
     guest = guest.split(',').filter(item=>{
       return GUEST.indexOf(item)>-1;
     });
@@ -862,8 +862,8 @@
         notify: false,
         appId: '4RsUwiB1WYYNWPgttA0lO7Mn-gzGzoHsz',
         appKey: 'CXUsN0gPblBnzSBiAXpNWM7M',
-        placeholder: 'Just go go',
-        avatar:'hide',
+        placeholder: '畅所欲言~',
+        avatar:'mp',
         guest_info:guest,
         pageSize:'10' || 10,
     });
